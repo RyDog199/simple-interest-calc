@@ -1,0 +1,9 @@
+C:\Users\RyanPlante\Documents\Visual Studio 2015\Projects\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\RyanPlante\Documents\Visual Studio 2015\Projects\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\RyanPlante\Documents\Visual Studio 2015\Projects\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\RyanPlante\Documents\Visual Studio 2015\Projects\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csprojResolveAssemblyReference.cache
+C:\Users\RyanPlante\Documents\Visual Studio 2015\Projects\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.Form1.resources
+C:\Users\RyanPlante\Documents\Visual Studio 2015\Projects\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\RyanPlante\Documents\Visual Studio 2015\Projects\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csproj.GenerateResource.Cache
+C:\Users\RyanPlante\Documents\Visual Studio 2015\Projects\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\RyanPlante\Documents\Visual Studio 2015\Projects\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\WindowsFormsApplication1.pdb
